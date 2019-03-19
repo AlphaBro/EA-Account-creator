@@ -3,7 +3,7 @@
 ## YOU NEED FIREFOX PLEASE [DOWNLOAD FIREFOX](https://www.mozilla.org/en-US/firefox/new/) FIRST
 EA ACCOUNT CREATOR simple automatic accounts creator with multi-processing
 A Simple tool to create multiple accounts in no time..
-Requirements - [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,[geodrive.exe](https://github.com/mozilla/geckodriver/releases) by Mozilla
+Requirements - [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,[geodrive.exe](https://github.com/mozilla/geckodriver/releases) by Mozilla , more browser support coming soon
 
 Latest version **[2]**
 
@@ -18,7 +18,6 @@ Latest version **[2]**
 **3.** IF recaptcha Appears Solve it and click 'Next'    _"a sound will ring"_
 
 **4.** all account details are saved in txt files (named after origin Username)
-
 
 ### Disclaimer
 ### this tool was made only for educational purposes please dont misuse this tool i am not responsible for any account created or action performed via this program i mean no intend to harm ea.com or temp-mail.org in any circumstances 
