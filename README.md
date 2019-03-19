@@ -7,7 +7,7 @@ Latest version **[1]**
 
 ### Steps to follow
 
-**1.** Run the program Wait for browser to open
+**1.** Run the EAcreator.exe Wait for browser to open
 
 **2.** Dont Touch the browser or CLICK inside browser    _"you can minimize it"_
 
