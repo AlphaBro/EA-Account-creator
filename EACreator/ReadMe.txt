@@ -15,8 +15,8 @@
 
 - Wait for browsers to open "SIT BACK AND RELAX"
 
-- Dont Touch the browser or CLICK inside browser “you can minimize it”
+- Dont Touch the browser or CLICK inside browser â€œyou can minimize itâ€
 
-- IF recaptcha Appears Solve it and click ‘Next’ “a sound will ring”
+- IF recaptcha Appears Solve it and click â€˜Nextâ€™ â€œa sound will ringâ€
 
-- all account details are saved in txt files (named after origin Username)
+- all account details are saved in txt files (named after origin Username) in accounts folder
