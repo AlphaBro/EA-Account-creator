@@ -5,7 +5,7 @@ EA ACCOUNT CREATOR simple automatic accounts creator with multi-processing
 A Simple tool to create multiple accounts in no time..
 Requirements - Chrome , Opera or [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,
 
-Latest version **[2]**
+Latest version **[3]**
 
 ### video tutorial coming soon
 
