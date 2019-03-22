@@ -6,7 +6,8 @@ A Simple tool to create multiple accounts in no time..
 Requirements - Chrome , Opera or [firefox](https://www.mozilla.org/en-US/firefox/new/) browser,
 
 Latest version **[3]**
-##Download [Mirror1(Mega.nz)](https://mega.nz/#!7FQHyYwZ!So8xAJVQwzsNWWUddMJhIRqJAJzIBHlpTc_lWB92tTA)
+
+###Download [Mirror1(Mega.nz)](https://mega.nz/#!7FQHyYwZ!So8xAJVQwzsNWWUddMJhIRqJAJzIBHlpTc_lWB92tTA)
 
 ### video tutorial coming soon
 
