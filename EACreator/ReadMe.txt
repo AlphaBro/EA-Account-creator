@@ -1,5 +1,3 @@
-*********** U Need FireFox Browser *************
-
 
 ===========Steps to follow============
 
